@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+
+#. ClusterTraitGenerationManager.STRINGS.CLUSTER_NAMES.CGSM.DESCRIPTION
+msgctxt "ClusterTraitGenerationManager.STRINGS.CLUSTER_NAMES.CGSM.DESCRIPTION"
+msgid "CGSM Cluster"
+msgstr "CGSM Cluster"
+
+#. ClusterTraitGenerationManager.STRINGS.CLUSTER_NAMES.CGSM.NAME
+msgctxt "ClusterTraitGenerationManager.STRINGS.CLUSTER_NAMES.CGSM.NAME"
+msgid "CGSM Cluster"
+msgstr "CGSM Cluster"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER.DESCRIPTOR.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER."
+"DESCRIPTOR.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER.DESCRIPTOR.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER."
+"DESCRIPTOR.LABEL"
+msgid "Number to generate:"
+msgstr "Oluşturulacak sayı:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER.DESCRIPTOR.OUTPUT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER."
+"DESCRIPTOR.OUTPUT"
+msgid "REPLAC"
+msgstr "İçerik"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER.DESCRIPTOR.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.AMOUNTSLIDER."
+"DESCRIPTOR.TOOLTIP"
+msgid ""
+"How many instances of these should be generated.\n"
+"Values that aren't full numbers represent a chance to generate for POIs.\n"
+"(f.e. 0.8 = 80% chance to generate this POI)"
+msgstr ""
+"Bunların kaç örneği oluşturulmalıdır?.\n"
+"Tam sayı olmayan değerler, %'lik oluşturma şansını temsil eder.\n"
+"ör. 0.8 = 80% üretim şansına karşılık gelir)"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.HEIGHT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.HEIGHT"
+msgid "Height:"
+msgstr "Yükseklik:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.LABEL"
+msgid "Asteroid Size:"
+msgstr "Asteroit Boyutu:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT1
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT1"
+msgid "Slightly Taller"
+msgstr "Biraz uzun"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT1TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT1TOOLTIP"
+msgid "The asteroid is a bit taller than normal."
+msgstr "Asteroit normalden biraz uzun."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT2
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT2"
+msgid "Taller"
+msgstr "Uzun"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT2TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT2TOOLTIP"
+msgid "The asteroid is taller than normal."
+msgstr "Asteroit normalden daha uzun."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT3
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT3"
+msgid "Much Taller"
+msgstr "Çok daha uzun"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT3TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.HEIGHT3TOOLTIP"
+msgid "The asteroid is a lot taller than normal."
+msgstr "Asteroit normalden çok daha uzun."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.NORMAL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.NORMAL"
+msgid "Normal Shape"
+msgstr "Normal Şekil"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.NORMALTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.NORMALTOOLTIP"
+msgid "The asteroid has its usual shape."
+msgstr "Asteroit normal şekline sahiptir."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE1
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE1"
+msgid "Slightly Wider"
+msgstr "Biraz geniş"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE1TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE1TOOLTIP"
+msgid "The asteroid is a bit wider than normal."
+msgstr "Asteroit normalden biraz geniştir."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE2
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE2"
+msgid "Wider"
+msgstr "Geniş"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE2TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE2TOOLTIP"
+msgid "The asteroid is wider than normal."
+msgstr "Asteroit normalden geniş."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE3
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE3"
+msgid "Much Wider"
+msgstr "Çok Daha Geniş"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE3TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.RATIOSELECTOR.WIDE3TOOLTIP"
+msgid "The asteroid is a lot wider than normal."
+msgstr "Asteroit normalden çok daha geniştir."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE0
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE0"
+msgid "Normal"
+msgstr "Normal"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE0TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE0TOOLTIP"
+msgid "The asteroid is at its usual size."
+msgstr "Asteroit normal boyutunda."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE1
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE1"
+msgid "Slightly Larger"
+msgstr "Biraz büyük"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE1TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE1TOOLTIP"
+msgid "The asteroid is 25% larger than normal."
+msgstr "Asteroit normalden %25 daha büyük."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE2
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE2"
+msgid "Large"
+msgstr "Büyük"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE2TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE2TOOLTIP"
+msgid "The asteroid is 50% larger than normal."
+msgstr "Asteroit normalden %50 daha büyük."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE3
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE3"
+msgid "Huge"
+msgstr "Çok Büyük"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE3TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE3TOOLTIP"
+msgid "The asteroid has twice its usual size."
+msgstr "Asteroit normal boyutunun iki katı büyüklüğünde."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE4
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE4"
+msgid "Massive"
+msgstr "Aşırı Büyük"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE4TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE4TOOLTIP"
+msgid "The asteroid has three times its usual size."
+msgstr "Asteroit normal boyutunun üç katı büyüklüğünde."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE5
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE5"
+msgid "Enormous"
+msgstr "Devasa"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZESELECTOR.SIZE5TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZESELECTOR.SIZE5TOOLTIP"
+msgid "The asteroid has four times its usual size."
+msgstr "Asteroit normal boyutunun dört katı büyüklüğünde."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.SIZEWARNING
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.SIZEWARNING"
+msgid ""
+"Warning!\n"
+"The planet size you have selected has {0}% more area than a normal vanilla "
+"size asteroid.\n"
+"This might lead to a low game performance!"
+msgstr ""
+"Uyarı!\n"
+"Seçtiğiniz gezegen boyutu, normal bir asteroid boyutundan %{0} daha fazla "
+"alana sahiptir.\n"
+"Bu, düşük oyun performansına neden olabilir!"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.TOOLTIP"
+msgid "The dimensions of this asteroid."
+msgstr "Bu asteroitin boyutları."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDSIZEINFO.WIDTH
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDSIZEINFO.WIDTH"
+msgid "Width:"
+msgstr "Genişlik:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDTRAITS.ADDTRAITBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDTRAITS.ADDTRAITBUTTON.TEXT"
+msgid "Add Trait"
+msgstr "Özellik Ekle"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDTRAITS.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDTRAITS.LABEL"
+msgid "Asteroid Traits:"
+msgstr "Asteroit Özellikleri:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.ASTEROIDTRAITS.LISTVIEW.NOTRAITSELECTEDINFO.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"ASTEROIDTRAITS.LISTVIEW.NOTRAITSELECTEDINFO.LABEL"
+msgid "  No Traits"
+msgstr "Özellik Yok"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER.DESCRIPTOR.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER."
+"DESCRIPTOR.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER.DESCRIPTOR.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER."
+"DESCRIPTOR.LABEL"
+msgid "Buffer Distance:"
+msgstr "Gezegen Mesafesi:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER.DESCRIPTOR.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUFFERSLIDER."
+"DESCRIPTOR.TOOLTIP"
+msgid "The minimum distance this asteroid has to other asteroids."
+msgstr "Bu asteroitin diğer asteroitlere olan minimum mesafesi."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.GENERATECLUSTERBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"GENERATECLUSTERBUTTON.TEXT"
+msgid "Start modified Game"
+msgstr "Değiştirilen Oyunu Başlat"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.GENERATECLUSTERBUTTON.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"GENERATECLUSTERBUTTON.TOOLTIP"
+msgid ""
+"Start generating a modified Cluster based on selected parameters.\n"
+"Modified Cluster Generation is only activated if this button here is used."
+msgstr ""
+"Seçilen parametrelere dayalı olarak değiştirilmiş bir Küme oluşturmaya "
+"başlayın.\n"
+"Değiştirilmiş Küme Oluşturma, yalnızca buradaki bu düğme kullanıldığında "
+"etkinleştirilir."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RESETCLUSTERBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RESETCLUSTERBUTTON.TEXT"
+msgid "Reset Cluster"
+msgstr "Kümeyi Sıfırla"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RESETCLUSTERBUTTON.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RESETCLUSTERBUTTON.TOOLTIP"
+msgid "Undo all changes you have made by reloading the cluster preset."
+msgstr ""
+"Küme ön ayarını yeniden yükleyerek yaptığınız tüm değişiklikleri geri alın."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RESETSELECTIONBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RESETSELECTIONBUTTON.TEXT"
+msgid "Reset Current Selection"
+msgstr "Geçerli Seçimi Sıfırla"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RESETSELECTIONBUTTON.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RESETSELECTIONBUTTON.TOOLTIP"
+msgid "Undo all changes you have made to the currently selected item."
+msgstr "Şu anda seçili olan öğede yaptığınız tüm değişiklikleri geri alın."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RETURNBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RETURNBUTTON.TEXT"
+msgid "Return"
+msgstr "Geri dön"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS.RETURNBUTTON.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+"RETURNBUTTON.TOOLTIP"
+msgid "Return to the previous screen."
+msgstr "Önceki ekrana dön."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE.DESCRIPTOR.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE."
+"DESCRIPTOR.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE.DESCRIPTOR.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE."
+"DESCRIPTOR.LABEL"
+msgid "Cluster Size:"
+msgstr "Küme Boyutu:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE.DESCRIPTOR.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.CLUSTERSIZE."
+"DESCRIPTOR.TOOLTIP"
+msgid "The radius of the starmap."
+msgstr "Yıldız haritasının yarıçapı."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MAXDISTANCESLIDER.DESCRIPTOR.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MAXDISTANCESLIDER.DESCRIPTOR.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MAXDISTANCESLIDER.DESCRIPTOR.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MAXDISTANCESLIDER.DESCRIPTOR.LABEL"
+msgid "Maximum Distance:"
+msgstr "Maksimum Mesafe:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MAXDISTANCESLIDER.DESCRIPTOR.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MAXDISTANCESLIDER.DESCRIPTOR.TOOLTIP"
+msgid "The maximum distance this asteroid has to the center of the starmap."
+msgstr "Bu asteroitin yıldız haritasının merkezine olan maksimum mesafesi."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.ACTIVEMETEORSLABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"ACTIVEMETEORSLABEL"
+msgid "Active Meteor Showers:"
+msgstr "Aktif Meteor Yağmurları:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.ACTIVESEASONSELECTORLABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"ACTIVESEASONSELECTORLABEL"
+msgid "Active Meteor Seasons:"
+msgstr "Aktif Meteor Mevsimleri:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.ADDNEWSEASON
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"ADDNEWSEASON"
+msgid "Add additional meteor season"
+msgstr "Ek meteor mevsimi ekle"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.ADDNEWSEASONTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"ADDNEWSEASONTOOLTIP"
+msgid ""
+"Add another type of meteor season type to this asteroid.\n"
+"Warning: Meteor season types are all active at the same time,\n"
+"leading to a high volume of meteors at the same time if multiple are added.\n"
+"Normal asteroids have usually 1 season type"
+msgstr ""
+"Bu asteroide başka bir meteor mevsimi türü ekleyin.\n"
+"Uyarı: Meteor mevsimi türlerinin hepsi aynı anda aktiftir,\n"
+"Dikkat: Tüm meteor mevsimleri aynı anda aktiftir, bu da birden fazla mevsim "
+"eklendiğinde aynı anda yüksek sayıda meteor oluşmasına neden olur.\n"
+"Normale Asteroiden haben meist nur einen Saisontyp."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"LABEL"
+msgid "Meteors:"
+msgstr "Meteorlar:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.NOMETEORSHOWERS
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"NOMETEORSHOWERS"
+msgid "No Meteor Showers"
+msgstr "Meteor Yağmuru Yok"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.NOSEASONSSELECTED
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"NOSEASONSSELECTED"
+msgid "No season types selected"
+msgstr "Sezon türü seçilmedi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.REMOVESEASONTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"REMOVESEASONTOOLTIP"
+msgid "Remove this Season Type"
+msgstr "Bu Sezon Türünü kaldır"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SEASONSELECTOR.ADDSEASONTYPEBUTTONLABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SEASONSELECTOR.ADDSEASONTYPEBUTTONLABEL"
+msgid "Add season type"
+msgstr "Sezon türü ekle"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SEASONSELECTOR.NOSEASONTYPESAVAILABLE
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SEASONSELECTOR.NOSEASONTYPESAVAILABLE"
+msgid "No more available Season Types"
+msgstr "Artık Sezon Türü yok"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SEASONSELECTOR.SEASONTYPENOMETEORSTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SEASONSELECTOR.SEASONTYPENOMETEORSTOOLTIP"
+msgid ""
+"This season type does not contain any meteor shower types.\n"
+"This might change in the future if Klei decides to add some showers to this "
+"season type.\n"
+"For this reason the season type is still listed here."
+msgstr ""
+"Bu sezon türü herhangi bir meteor yağmuru türü içermez.\n"
+"Klei bu sezon tipine biraz sağanak yağış eklemeye karar verirse bu durum "
+"gelecekte değişebilir.\n"
+"Bu nedenle sezon türü burada listelenmeye devam etmektedir."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SEASONSELECTOR.SEASONTYPETOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SEASONSELECTOR.SEASONTYPETOOLTIP"
+msgid "This season type contains the following shower types:"
+msgstr "Bu sezon türü aşağıdaki meteor yağmurlarını içerir:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SEASONSELECTOR.TITEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SEASONSELECTOR.TITEL"
+msgid "Available Meteor Season Types:"
+msgstr "Mevcut Meteor Mevsimi Türleri:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SHOWERTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SHOWERTOOLTIP"
+msgid "Meteors in this shower type:"
+msgstr "Bu yağmur tipindeki meteorlar:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.SWITCHTOOTHERSEASONTOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"SWITCHTOOTHERSEASONTOOLTIP"
+msgid "Change this season to a different type"
+msgstr "Bu sezonu farklı bir türle değiştirin"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.METEORSEASON."
+"TOOLTIP"
+msgid "What kind of meteors should come down on this asteroid?"
+msgstr "Bu asteroide ne tür meteorlar düşmeli?"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MINDISTANCESLIDER.DESCRIPTOR.INPUT.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MINDISTANCESLIDER.DESCRIPTOR.INPUT.TEXT"
+msgid ""
+msgstr ""
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MINDISTANCESLIDER.DESCRIPTOR.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MINDISTANCESLIDER.DESCRIPTOR.LABEL"
+msgid "Minimum Distance:"
+msgstr "Minimum Mesafe:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.MINDISTANCESLIDER.DESCRIPTOR.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"MINDISTANCESLIDER.DESCRIPTOR.TOOLTIP"
+msgid "The minimum distance this asteroid has to the center of the starmap."
+msgstr "Bu asteroitin yıldız haritasının merkezine olan minimum mesafesi."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.STARMAPITEMENABLED.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"STARMAPITEMENABLED.LABEL"
+msgid "Generate Item:"
+msgstr "Öğe Oluştur:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.STARMAPITEMENABLED.TOOLTIP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+"STARMAPITEMENABLED.TOOLTIP"
+msgid "Should this asteroid/POI be generated at all?"
+msgstr "Bu Asteroid/Bu yüzey tipi oluşturulmalı mı?"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.CANCELBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.CANCELBUTTON.TEXT"
+msgid "Cancel"
+msgstr "İptal"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT.LISTVIEWENTRYPREFAB.ADDTHISTRAITBUTTON.TEXT
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT."
+"LISTVIEWENTRYPREFAB.ADDTHISTRAITBUTTON.TEXT"
+msgid "Add this trait"
+msgstr "Bu özelliği ekle"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT.LISTVIEWENTRYPREFAB.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT."
+"LISTVIEWENTRYPREFAB.LABEL"
+msgid "trait label"
+msgstr "satır etiketi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT.NOTRAITAVAILABLE.LABEL
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.SCROLLAREA.CONTENT."
+"NOTRAITAVAILABLE.LABEL"
+msgid "No Traits available"
+msgstr "Özellik yok"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.TEXT
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.CGM.TRAITPOPUP.TEXT"
+msgid "available Traits:"
+msgstr "mevcut Özellikler:"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CGMBUTTON.DESC
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.CGMBUTTON.DESC"
+msgid "Start customizing the currently selected cluster."
+msgstr "Seçili olan kümeyi özelleştirmeye başlayın."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.OUTER
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.OUTER"
+msgid "Outer Asteroids"
+msgstr "Dış Asteroitler"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.POI
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.POI"
+msgid "Points of Interest"
+msgstr "İlgi noktaları"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.START
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.START"
+msgid "Start Asteroid"
+msgstr "Asteroid'i başlat"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.WARP
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.CATEGORYENUM.WARP"
+msgid "Teleport Asteroid"
+msgstr "Işınlanma Asteroidi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.NAMECATEGORIES
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.NAMECATEGORIES"
+msgid "Starmap Item Category"
+msgstr "Yıldız Haritası Öğe Kategorisi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.NAMEITEMS
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.NAMEITEMS"
+msgid "Starmap Items of this category"
+msgstr "Bu kategorideki yıldız haritası öğeleri"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.DESCRIPTION"
+msgid ""
+"You have selected more than 6 outer planets, which can lead to placement "
+"failures.\n"
+" Automatically adjust cluster size and placements?"
+msgstr ""
+"6'dan fazla dış gezegen seçtiniz, bu da hatalara yol açabilir.\n"
+" Küme boyutu ve yerleşimleri otomatik olarak ayarlansın mı?"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.NOMANUAL
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.NOMANUAL"
+msgid "No, let me do it manually."
+msgstr "Hayır, manuel olarak yapayım."
+
+#. ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.WINDOWNAME
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.WINDOWNAME"
+msgid "Potential Generation Errors detected!"
+msgstr "Potansiyel Üretim Hataları tespit edildi!"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.YES
+msgctxt "ClusterTraitGenerationManager.STRINGS.UI.GENERATIONWARNING.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_OUTER.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_OUTER."
+"DESCRIPTION"
+msgid ""
+"Choose an amount of random outer asteroids.\n"
+"\n"
+"Each asteroid can only generate once"
+msgstr ""
+"Rastgele seçilmiş bir dizi asteroit seçin.\n"
+"\n"
+"Her asteroit yalnızca bir kez üretebilir"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_OUTER.NAME
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_OUTER."
+"NAME"
+msgid "Random Outer Asteroid(s)"
+msgstr "Rastgele Dış Asteroid(ler)"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_POI.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_POI."
+"DESCRIPTION"
+msgid ""
+"Choose an amount of POIs at random.\n"
+"\n"
+"Does not roll unique POIs\n"
+"(Temporal Tear, Russel's Teapot)"
+msgstr ""
+"Rastgele seçilmiş bir yüzey tipi seçin.\n"
+"\n"
+"Benzersiz yüzeyler oluşturulamaz\n"
+"(Zamansal Yırtık, Russell'ın Çaydanlığı)"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_POI.NAME
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_POI."
+"NAME"
+msgid "Random POI"
+msgstr "Rasgele Yüzey Tipi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_STARTER.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS."
+"CGM_RANDOM_STARTER.DESCRIPTION"
+msgid "The starting asteroid will be picked at random"
+msgstr "Başlangıç asteroidi rastgele seçilecek"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_STARTER.NAME
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS."
+"CGM_RANDOM_STARTER.NAME"
+msgid "Random Start Asteroid"
+msgstr "Rastgele Başlangıç Asteroidi"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_WARP.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_WARP."
+"DESCRIPTION"
+msgid "The teleporter asteroid will be picked at random"
+msgstr "Işınlayıcı asteroidi rastgele seçilecek"
+
+#. ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_WARP.NAME
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.UI.SPACEDESTINATIONS.CGM_RANDOM_WARP."
+"NAME"
+msgid "Random Teleporter Asteroid"
+msgstr "Rastgele Işınlayıcı Asteroidi"
+
+#. ClusterTraitGenerationManager.STRINGS.WORLD_TRAITS.CGM_RANDOMTRAIT.DESCRIPTION
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.WORLD_TRAITS.CGM_RANDOMTRAIT."
+"DESCRIPTION"
+msgid ""
+"Chooses between 1 and 3 Traits at random.\n"
+"Mutually exclusive with other selectable Traits."
+msgstr ""
+"Rastgele 1 ila 3 Özellik arasından seçim yapar.\n"
+"Diğer seçilebilir özelliklerle birbirini zıtlar."
+
+#. ClusterTraitGenerationManager.STRINGS.WORLD_TRAITS.CGM_RANDOMTRAIT.NAME
+msgctxt ""
+"ClusterTraitGenerationManager.STRINGS.WORLD_TRAITS.CGM_RANDOMTRAIT.NAME"
+msgid "Randomized Traits"
+msgstr "Zufällige Welt-Eigenschaften"
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS.BUTTONS."
+#~ "GENERATECLUSTERBUTTON.TEXT"
+#~ msgid "Generate Cluster"
+#~ msgstr "Generiere Cluster"
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CGM.INDIVIDUALSETTINGS."
+#~ "ASTEROIDSIZEINFO.INFO"
+#~ msgid "{0}x{1}"
+#~ msgstr "{0}x{1}"
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI."
+#~ "CUSTOMCLUSTERCONFIG.HIDE"
+#~ msgid "Hide Cluster Config"
+#~ msgstr "Cluster-Einstellungen verstecken"
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI."
+#~ "CUSTOMCLUSTERCONFIG.SHOW"
+#~ msgid "Show Cluster Config"
+#~ msgstr "Cluster-Einstellungen anzeigen"
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.ENABLED.NAME"
+#~ msgid "Enabled: "
+#~ msgstr "Aktiviert: "
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.MAPSIZE.NAME"
+#~ msgid "Starmap Radius: "
+#~ msgstr "Sternenkartenradius: "
+
+#~ msgctxt ""
+#~ "ClusterTraitGenerationManager.STRINGS.UI.CUSTOMCLUSTERUI.NUMBERS.NAME"
+#~ msgid "Amount: "
+#~ msgstr "Anzahl: "
